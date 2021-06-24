@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **walkeralencar/walkeralencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <div>
+ <div style="padding: 0 1em;">
   <a href="https://github.com/walkeralencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walkeralencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkeralencar&layout=compact&langs_count=16&theme=dracula"/>
-</div
- ![Snake animation](https://github.com/walkeralencar/walkeralencar/blob/output/github-contribution-grid-snake.svg)
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walkeralencar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkeralencar&layout=compact&langs_count=16&theme=tokyonight"/></a>
+</div>
+
+![Snake animation](https://github.com/walkeralencar/walkeralencar/blob/output/github-contribution-grid-snake.svg)
